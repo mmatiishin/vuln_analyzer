@@ -1,0 +1,22 @@
+{
+  "vulnerabilities": [
+    {
+      "id": "VULN-001",
+      "package": "openssl",
+      "severity": "HIGH",
+      "description": "Outdated version allows potential MITM attack."
+    },
+    {
+      "id": "VULN-002",
+      "package": "log4j",
+      "severity": "CRITICAL",
+      "description": "Remote code execution vulnerability."
+    },
+    {
+      "id": "VULN-003",
+      "package": "nginx",
+      "severity": "LOW",
+      "description": "Minor configuration exposure."
+    }
+  ]
+}
